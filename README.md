@@ -24,7 +24,7 @@
 <p><a href="https://www.buymeacoffee.com/Mayowa.Ak"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mayowa.Ak" /></a><a href="https://ko-fi.com/mayowaa"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mayowaa" /></a></p><br><br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayowaak&show_icons=true&locale=en" alt="mayowaak" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mayowaak&show_icons=true&locale=en" alt="mayowaak" /></p>
 
 <!--START_SECTION:waka-->
 
