@@ -26,3 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayowaak&show_icons=true&locale=en&layout=compact" alt="mayowaak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayowaak&show_icons=true&locale=en" alt="mayowaak" /></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
