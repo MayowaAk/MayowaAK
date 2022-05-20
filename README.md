@@ -29,7 +29,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Blazor   8 mins          ███████████████▓░░░░░░░░░   62.07 %
+C#       3 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.41 %
+XML      1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
 ```
 
 <!--END_SECTION:waka-->
